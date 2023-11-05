@@ -61,7 +61,7 @@ The train-val-test data.csv can be downloaded on this page
 
 
 # Model
-Multi-class image segmentation
+Differ from the Shi et al. study in which they used binary classification for the segmentation, we used multi-class image segmentation for the EBHI-Seg
 
 We used UNet, ResUNet, and AttUnet architectures in this project.
 ![Model comparison](https://github.com/LSardiani/ColorectalCancer_Segmentation/assets/135226112/ee5dcbb4-8354-43fd-bdef-647c2c798fce)
@@ -76,6 +76,17 @@ Batch size = 6
 
 
 # Results
+
+(1) UNet
+![UNet](https://github.com/LSardiani/ColorectalCancer_Segmentation/assets/135226112/fad5726b-725e-4348-9143-40fe4c3d43cd)
+
+
+(2) ResUNet
+![ResUNet](https://github.com/LSardiani/ColorectalCancer_Segmentation/assets/135226112/9912b7ed-d324-43d7-af4a-0d6bcc491ec8)
+
+
+(3) AttUNet
+
 
 
 # Summaries from models
