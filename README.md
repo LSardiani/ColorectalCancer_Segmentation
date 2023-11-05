@@ -5,7 +5,7 @@ Final Project - Enteroscope Biopsy Histopathological Hematoxylin and Eosin Image
 Hello there! This was the final project from IndonesiaAI Computer Vision (CV) Bootcamp Batch 2.
 
 
-We used the EBHI-Seg Dataset by Shi L, Li X, Hu W, Chen H, Chen J, Fan Z, Gao M, Jing Y, Lu G, Ma D, Ma Z, Meng Q, Tang D, Sun H, Grzegorzek M, Qi S, Teng Y, Li C. EBHI-Seg: A novel enteroscope biopsy histopathological hematoxylin and eosin image dataset for image segmentation tasks. Front Med (Lausanne). 2023 Jan 24;10:1114673. doi: 10.3389/fmed.2023.1114673. PMID: 36760405; PMCID: PMC9902656.
+We used the **EBHI-Seg Dataset** by Shi L, Li X, Hu W, Chen H, Chen J, Fan Z, Gao M, Jing Y, Lu G, Ma D, Ma Z, Meng Q, Tang D, Sun H, Grzegorzek M, Qi S, Teng Y, Li C. EBHI-Seg: A novel enteroscope biopsy histopathological hematoxylin and eosin image dataset for image segmentation tasks. Front Med (Lausanne). 2023 Jan 24;10:1114673. doi: 10.3389/fmed.2023.1114673. PMID: 36760405; PMCID: PMC9902656.
 
 
 The Dataset is available for public: 
@@ -22,6 +22,12 @@ Fundamental tasks of CAD : IMAGE SEGMENTATION, which can be used as key evidence
 Colon cancer is a common deadly malignant tumor, the fourth most common cancer in men, and the third most common cancer in women worldwide. 
 
 Colon cancer is responsible for 10% of all cancer cases.
+
+EBHI-Seg Dataset countains six classes from Colorectal cancer:
+
+Normal - Polyp - Serrated adenoma - Low-grade intraepithelial neoplasia - High-grade intraepithelial neoplasia - Adenocarcinoma.
+
+From the normal condition to benign and malignant stages.
 
 # Getting started
 
