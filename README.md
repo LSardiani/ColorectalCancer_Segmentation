@@ -43,9 +43,14 @@ The Dataset consists of each stages in separate folders
 
 We split the training-validation-testing Dataset into 70-20-10.
 
+Therefore,
+
 Training = 1558 images and labels
+
 Validation = 447 images and labels
+
 Testing = 221 images and labels
+
 
 # Model
 Multi-class image segmentation
