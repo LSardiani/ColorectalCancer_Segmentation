@@ -1,4 +1,5 @@
 # ColorectalCancer_Segmentation
+
 Final Project - Enteroscope Biopsy Histopathological Hematoxylin and Eosin Image Dataset for Image Segmentation Tasks (EBHI-Seg)
 
 
@@ -19,9 +20,9 @@ CAD is widely used in many biomedical image analysis tasks, such as: microorgani
 
 Fundamental tasks of CAD : IMAGE SEGMENTATION, which can be used as key evidence in the pathologists’ diagnostic processes. Therefore each case can be accurately and efficiently examined with the help of computers.
 
-Colon cancer is a common deadly malignant tumor, the fourth most common cancer in men, and the third most common cancer in women worldwide. 
 
-Colon cancer is responsible for 10% of all cancer cases.
+
+Colon cancer is a common deadly malignant tumor, the fourth most common cancer in men, and the third most common cancer in women worldwide. Colon cancer is responsible for 10% of all cancer cases.
 
 EBHI-Seg Dataset countains six classes from Colorectal cancer:
 
@@ -33,6 +34,7 @@ From the normal condition to benign and malignant stages.
 
 
 # Getting started
+
 Download the Dataset from https://figshare.com/articles/dataset/EBHISEG/21540159/1
 
 All pictures are in .png format with 224 x 224 pixel
@@ -50,6 +52,8 @@ Training = 1558 images and labels
 Validation = 447 images and labels
 
 Testing = 221 images and labels
+
+The train-val-test data.csv can be downloaded on this page
 
 
 # Model
