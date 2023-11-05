@@ -29,15 +29,31 @@ Normal - Polyp - Serrated adenoma - Low-grade intraepithelial neoplasia - High-g
 
 From the normal condition to benign and malignant stages.
 
+![EBHI-Seg1](https://github.com/LSardiani/ColorectalCancer_Segmentation/assets/135226112/7d94c45b-e5c1-43b4-b096-2136962979b1)
+
+
 # Getting started
+Download the Dataset from https://figshare.com/articles/dataset/EBHISEG/21540159/1
+
+All pictures are in .png format with 224 x 224 pixel
+
+The Dataset consists of each stages in separate folders
+
+![EBHI-Seg2](https://github.com/LSardiani/ColorectalCancer_Segmentation/assets/135226112/22f0059e-8d6d-4b28-a9b7-88a3ec47ec2a)
+
+
 
 # Model
 
+
 # Results
 
-# Summaries from three models
+
+# Summaries from models
+
 
 # Conclusions
+
 
 # Contact
 
