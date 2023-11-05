@@ -28,7 +28,12 @@ EBHI-Seg Dataset countains six classes from Colorectal cancer:
 
 Normal - Polyp - Serrated adenoma - Low-grade intraepithelial neoplasia - High-grade intraepithelial neoplasia - Adenocarcinoma.
 
-From the normal condition to benign and malignant stages.
+We defined the different colors for each stages:
+
+![EBHI-Seg3](https://github.com/LSardiani/ColorectalCancer_Segmentation/assets/135226112/26181032-f616-4ded-a8c0-5d360bfd80cd)
+
+
+Histopathological images from the normal condition to benign and malignant stages.
 
 ![EBHI-Seg1](https://github.com/LSardiani/ColorectalCancer_Segmentation/assets/135226112/7d94c45b-e5c1-43b4-b096-2136962979b1)
 
