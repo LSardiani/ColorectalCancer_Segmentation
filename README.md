@@ -11,7 +11,7 @@ We used the EBHI-Seg Dataset by Shi L, Li X, Hu W, Chen H, Chen J, Fan Z, Gao M,
 The Dataset is available for public: 
 https://figshare.com/articles/dataset/EBHISEG/21540159/1
 
-#Background
+# Background
 
 Computer-aided diagnosis (CAD) → increasing trends in development and popularity.
 
@@ -23,17 +23,17 @@ Colon cancer is a common deadly malignant tumor, the fourth most common cancer i
 
 Colon cancer is responsible for 10% of all cancer cases.
 
-#Getting started
+# Getting started
 
-#Model
+# Model
 
-#Results
+# Results
 
-#Summaries from three models
+# Summaries from three models
 
-#Conclusions
+# Conclusions
 
-#Contact
+# Contact
 
 Please reach me by email: lilysilva.dr@gmail.com for any further discussion.
 
