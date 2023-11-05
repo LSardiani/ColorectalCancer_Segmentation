@@ -87,14 +87,20 @@ Batch size = 6
 
 
 (3) AttUNet
-
+![AttUNet](https://github.com/LSardiani/ColorectalCancer_Segmentation/assets/135226112/8e201bcf-fef8-4d00-b1db-0223b4028c1e)
 
 
 # Summaries from models
 
+Dice Score and Dice Loss
+![Dice Score Loss](https://github.com/LSardiani/ColorectalCancer_Segmentation/assets/135226112/88f3e75c-65a3-4820-b302-5f87cebcd045)
+
+Recalls and Precisions
+![Recalls Precisions](https://github.com/LSardiani/ColorectalCancer_Segmentation/assets/135226112/9d7ace90-d062-49a9-9266-84e21a01b2cd)
+
 
 # Conclusions
-
+AttUNet given the better architecture than UNet and ResUNet in this project.
 
 # Contact
 
