@@ -41,10 +41,15 @@ The Dataset consists of each stages in separate folders
 
 ![EBHI-Seg2](https://github.com/LSardiani/ColorectalCancer_Segmentation/assets/135226112/22f0059e-8d6d-4b28-a9b7-88a3ec47ec2a)
 
+We split the training-validation-testing Dataset into 70-20-10.
 
+Training = 1558 images and labels
+Validation = 447 images and labels
+Testing = 221 images and labels
 
 # Model
-
+Multi-class image segmentation
+UNet architecture was the main model, then modified it into AttUnet and ResUNet
 
 # Results
 
