@@ -93,9 +93,11 @@ Batch size = 6
 # Summaries from models
 
 Dice Score and Dice Loss
+
 ![Dice Score Loss](https://github.com/LSardiani/ColorectalCancer_Segmentation/assets/135226112/88f3e75c-65a3-4820-b302-5f87cebcd045)
 
 Recalls and Precisions
+
 ![Recalls Precisions](https://github.com/LSardiani/ColorectalCancer_Segmentation/assets/135226112/9d7ace90-d062-49a9-9266-84e21a01b2cd)
 
 
