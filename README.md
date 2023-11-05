@@ -62,7 +62,18 @@ The train-val-test data.csv can be downloaded on this page
 
 # Model
 Multi-class image segmentation
-UNet architecture was the main model, then modified it into AttUnet and ResUNet
+
+We used UNet, ResUNet, and AttUnet architectures in this project.
+![Model comparison](https://github.com/LSardiani/ColorectalCancer_Segmentation/assets/135226112/ee5dcbb4-8354-43fd-bdef-647c2c798fce)
+
+Parameters are applied same Lr, epochs, batch size to all models.
+
+Lr = 0.00001
+
+Epochs = 250
+
+Batch size = 6
+
 
 # Results
 
