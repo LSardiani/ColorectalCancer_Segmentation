@@ -102,7 +102,7 @@ Recalls and Precisions
 
 
 # Conclusions
-AttUNet shows the better architecture than UNet and ResUNet in this project.
+AttUNet shows better results than UNet and ResUNet in this project.
 
 # Contact
 
